@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Alexsaurio/HotBoxTimer/static/css/main.e2f6d472.chunk.css",
+    "main.js": "/Alexsaurio/HotBoxTimer/static/js/main.f9a34b51.chunk.js",
+    "main.js.map": "/Alexsaurio/HotBoxTimer/static/js/main.f9a34b51.chunk.js.map",
+    "runtime-main.js": "/Alexsaurio/HotBoxTimer/static/js/runtime-main.82f868fd.js",
+    "runtime-main.js.map": "/Alexsaurio/HotBoxTimer/static/js/runtime-main.82f868fd.js.map",
+    "static/js/2.d5791620.chunk.js": "/Alexsaurio/HotBoxTimer/static/js/2.d5791620.chunk.js",
+    "static/js/2.d5791620.chunk.js.map": "/Alexsaurio/HotBoxTimer/static/js/2.d5791620.chunk.js.map",
+    "index.html": "/Alexsaurio/HotBoxTimer/index.html",
+    "precache-manifest.2109e06137f0ee4d713e93bbb429a110.js": "/Alexsaurio/HotBoxTimer/precache-manifest.2109e06137f0ee4d713e93bbb429a110.js",
+    "service-worker.js": "/Alexsaurio/HotBoxTimer/service-worker.js",
+    "static/css/main.e2f6d472.chunk.css.map": "/Alexsaurio/HotBoxTimer/static/css/main.e2f6d472.chunk.css.map",
+    "static/js/2.d5791620.chunk.js.LICENSE": "/Alexsaurio/HotBoxTimer/static/js/2.d5791620.chunk.js.LICENSE",
+    "static/media/imagen.png": "/Alexsaurio/HotBoxTimer/static/media/imagen.72d20c19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f868fd.js",
+    "static/js/2.d5791620.chunk.js",
+    "static/css/main.e2f6d472.chunk.css",
+    "static/js/main.f9a34b51.chunk.js"
+  ]
+}
