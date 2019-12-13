@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb62b2249cd14ed10d4c2a504601cd4a",
+    "revision": "e9286a6e2d42aed8231d7fe2ac78492f",
     "url": "/HotBoxTimer/index.html"
   },
   {
-    "revision": "581e39f69977989f698d",
+    "revision": "f6b6e9aaa71ded24aaa7",
     "url": "/HotBoxTimer/static/css/main.e2f6d472.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/HotBoxTimer/static/js/2.d5791620.chunk.js.LICENSE"
   },
   {
-    "revision": "581e39f69977989f698d",
-    "url": "/HotBoxTimer/static/js/main.f9a34b51.chunk.js"
+    "revision": "f6b6e9aaa71ded24aaa7",
+    "url": "/HotBoxTimer/static/js/main.aee3a613.chunk.js"
   },
   {
     "revision": "8bb8df737adc68400ec3",
