@@ -1,7 +1,7 @@
 {
   "name": "hotbox",
   "version": "0.1.0",
-  "homepage": "https://github.com/Alexsaurio/HotBoxTimer",
+  
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.7.2",
