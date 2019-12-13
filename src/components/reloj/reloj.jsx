@@ -58,6 +58,7 @@ class Reloj extends Component {
        this.setState({ M: this.props.time});
        this.setState({ S: 0});
        this.setState({ pause: false });
+       this.setState({ Style: 'Clock' })
     }
 
 
