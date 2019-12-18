@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9286a6e2d42aed8231d7fe2ac78492f",
+    "revision": "4cd894f2dc3299eb1a37eb90a9bc7118",
     "url": "/HotBoxTimer/index.html"
   },
   {
