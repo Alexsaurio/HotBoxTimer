@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HotBoxTimer/static/css/main.e2f6d472.chunk.css",
-    "main.js": "/HotBoxTimer/static/js/main.aee3a613.chunk.js",
-    "main.js.map": "/HotBoxTimer/static/js/main.aee3a613.chunk.js.map",
+    "main.js": "/HotBoxTimer/static/js/main.ed5ae389.chunk.js",
+    "main.js.map": "/HotBoxTimer/static/js/main.ed5ae389.chunk.js.map",
     "runtime-main.js": "/HotBoxTimer/static/js/runtime-main.ebf88028.js",
     "runtime-main.js.map": "/HotBoxTimer/static/js/runtime-main.ebf88028.js.map",
     "static/js/2.d5791620.chunk.js": "/HotBoxTimer/static/js/2.d5791620.chunk.js",
     "static/js/2.d5791620.chunk.js.map": "/HotBoxTimer/static/js/2.d5791620.chunk.js.map",
     "index.html": "/HotBoxTimer/index.html",
-    "precache-manifest.51b32cc8fd8da25e1c27aa15b1eac5d8.js": "/HotBoxTimer/precache-manifest.51b32cc8fd8da25e1c27aa15b1eac5d8.js",
+    "precache-manifest.6558c52ab956c7a80c746a932cb59e51.js": "/HotBoxTimer/precache-manifest.6558c52ab956c7a80c746a932cb59e51.js",
     "service-worker.js": "/HotBoxTimer/service-worker.js",
     "static/css/main.e2f6d472.chunk.css.map": "/HotBoxTimer/static/css/main.e2f6d472.chunk.css.map",
     "static/js/2.d5791620.chunk.js.LICENSE": "/HotBoxTimer/static/js/2.d5791620.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ebf88028.js",
     "static/js/2.d5791620.chunk.js",
     "static/css/main.e2f6d472.chunk.css",
-    "static/js/main.aee3a613.chunk.js"
+    "static/js/main.ed5ae389.chunk.js"
   ]
 }
