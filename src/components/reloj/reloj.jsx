@@ -11,7 +11,8 @@ class Reloj extends Component {
             M: this.props.time,
             S: 0,
             Style: 'Clock',
-            pause: false
+            pause: false,
+            TextoB: 'Iniciar'
         };
 
         this.handleClickIniciar = this.handleClickIniciar.bind(this);
@@ -51,6 +52,9 @@ class Reloj extends Component {
     }
 
     handleClickIniciar(){
+       let texto = '';
+       this.state.pause === true ? texto = 'Iniciar' : texto = 'Pausar';
+       this.setState({ TextoB: texto });
        this.setState({ pause: !this.state.pause });
     }
 
@@ -64,13 +68,16 @@ class Reloj extends Component {
 
 
     render() {
-        const { M, S, Style } = this.state;
+        const { M, S, Style, TextoB } = this.state;
+        let SD = '0';
+        S < 10 ? SD = '0' + S : SD = S;
+
         return (
             
             <Grid>
-                <div className={Style}> {M}:{S}</div>
+                <div className={Style}> {M}:{SD}</div>
                 <ButtonGroup color="secondary" aria-label="outlined primary button group">
-                    <Button onClick={this.handleClickIniciar}>Iniciar</Button>
+                    <Button onClick={this.handleClickIniciar}>{TextoB}</Button>
                     <Button onClick={this.handleClickReiniciar}>Reinciar</Button>
                 </ButtonGroup>
             </Grid>
